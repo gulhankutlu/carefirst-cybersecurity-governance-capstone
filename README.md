@@ -10,7 +10,9 @@ It focuses on designing a comprehensive cybersecurity governance, risk managemen
 
 > **Academic and No-Affiliation Disclaimer:** The healthcare organization, systems, incidents, vulnerabilities, and policies described in this project are entirely fictional and were developed exclusively for academic purposes. This project is not affiliated with, endorsed by, sponsored by, or based on any actual healthcare organization. It does not contain real patient information, protected health information, confidential business data, production credentials, or information belonging to an actual organization.
 
-> #####    Master’s cybersecurity capstone focused on healthcare security governance, risk management, incident response, and AI governance.
+
+
+> Master’s cybersecurity capstone focused on healthcare security governance, risk management, incident response, and AI governance.
 
 ## Project Overview
 
